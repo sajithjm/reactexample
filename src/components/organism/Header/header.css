@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+}
+.headerMenu {
+margin: 15px;
+}
+.headerMenu a {
+    display: inline-block;
+    margin: 0 10px;
+}
+.headerMenu li{
+    display: inline-block;
+    margin: 0 10px;
+}
